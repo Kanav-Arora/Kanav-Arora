@@ -47,7 +47,8 @@ Tools I use: <br>
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&show_icons=true&locale=en" alt="mannadamay12" width="450" height="250" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
+<p>&nbsp;<img align= "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kanav-Arora&theme=blue-green" alt = "Kanav-Arora" width = "450" height="250"/></p>
 
 <p align="center">
     :arrow_down: Scroll down to see my top repositories :arrow_down:

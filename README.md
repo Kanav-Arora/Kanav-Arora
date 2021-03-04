@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanav Arora</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kanav Arora</h1>
 <h3 align="center">An UnderGrad student studying Computer Science in India</h3>
 
 <p align="left"> <a href="https://twitter.com/Beardy_Weird" target="blank"><img src="https://img.shields.io/twitter/follow/Beardy_Weird?label=Follow%20%40Beardy_Weird&style=for-the-badge" alt="Kanav Arora" /></a> </p>

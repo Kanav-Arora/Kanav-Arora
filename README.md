@@ -1,3 +1,6 @@
+<head>
+  <link rel ="stylesheet" href = "style.css">
+</head>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kanav Arora</h1>
 <h3 align="center">B.Tech student at Bennett University</h3>
 
@@ -8,37 +11,39 @@
 
 <br>
 
-<h3 align = "center">
-Connect with me: <br>
-<a href="https://twitter.com/Beardy_Weird"><img align="center" title="Twitter - Kanav Arora" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
-<a href="www.linkedin.com/in/kanavarora1505"><img align="center" title="LinkedIn - Kanav Arora" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
-<a href="https://www.instagram.com/kanav_a/"><img align="center" title="Instagram - Kanav Arora" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
-<a href="https://meta.stackexchange.com/users/937580/kanav-arora"><img align="center" title="Stack Overflow - Kanav Arora" alt="Stack Overflow" width="22px" src="./logos/stackoverflow.svg" /></a>
-<a href="mailto:kanavarora1515@gmail.com"><img align="center" title="Mail - Kanav Arora" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
+### Connect with me: 
+<br>
+<a href="https://twitter.com/Beardy_Weird"><img align="center" title="Twitter - Kanav Arora" alt="Twitter" width="22px" src="./logos/twitter.svg" class = "padding22"/></a>
+<a href="www.linkedin.com/in/kanavarora1505"><img align="center" title="LinkedIn - Kanav Arora" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" class = "padding22"/></a>
+<a href="https://www.instagram.com/kanav_a/"><img align="center" title="Instagram - Kanav Arora" alt="Instagram" width="22px" src="./logos/instagram.svg" class = "padding22"/></a>
+<a href="https://meta.stackexchange.com/users/937580/kanav-arora"><img align="center" title="Stack Overflow - Kanav Arora" alt="Stack Overflow" width="22px" src="./logos/stackoverflow.svg" class = "padding22"/></a>
+<a href="mailto:kanavarora1515@gmail.com"><img align="center" title="Mail - Kanav Arora" alt="Mail" width="22px" src="./logos/gmail.svg" class = "padding22"/></a>
 
 
 <br>
 <br>
   
-Programming Languages I work with: <br>
+### Programming Languages I work with:
+<br>
 
-<img align="center" title="Python" alt="python" width="26px" src="./logos/python.svg" />
-<img align="center" title="Java" alt="Java" width="26px" src="./logos/java.svg" />
+<img align="center" title="Python" alt="python" width="26px" src="./logos/python.svg" class = "padding26" />
+<img align="center" title="Java" alt="Java" width="26px" src="./logos/java.svg"  class = "padding26"/>
 <!-- <img align="left" title="Git" alt="Git" width="26px" src="./logos/git.svg" /> -->
-<img align="center" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
-<img align="center" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+<img align="center" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" class = "padding26" />
+<img align="center" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg"  class = "padding26"/>
   
 <br>
 <br>
 
-Tools I use: <br>
+### Tools I use: 
+<br>
 
-<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
-<img align="center" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
-<img align="center" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
-<img align="center" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
-<img align="center" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
-<img align="center" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
+<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" class = "padding26"/>
+<img align="center" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" class = "padding26"/>
+<img align="center" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" class = "padding26"/>
+<img align="center" title="Git" alt="Git" width="26px" src="./logos/git.svg" class = "padding26"/>
+<img align="center" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" class = "padding26"/>
+<img align="center" title="Android" alt="Android" width="26px" src="./logos/android.svg" class = "padding26"/>
 </h3>
 
 <br>

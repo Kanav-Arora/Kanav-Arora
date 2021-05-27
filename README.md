@@ -47,6 +47,8 @@ Tools I use: <br>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
 
 ### Check my blogs:
+<br>
+
 ![Kanav Arora's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=kanavarora1515&type=horizontal)
 
 

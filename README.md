@@ -49,7 +49,8 @@ Tools I use: <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
 <!--START_SECTION:waka-->
-
+```text
+```
 <!--END_SECTION:waka-->
 
 

@@ -49,7 +49,7 @@ Tools I use: <br>
 ### Check my blogs:
 <br>
 
-[![Kanav Arora's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=kanavarora1515&type=horizontal)](https://medium.com/@kanavarora1515)
+![Kanav Arora's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=kanavarora1515&type=horizontal)
 
 
 <p align="center">

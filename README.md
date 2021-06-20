@@ -1,7 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kanav Arora</h1>
 <h3 align="center">B.Tech student at Bennett University</h3>
 
-<p align="left"> <a href="https://twitter.com/Beardy_Weird" target="blank"><img src="https://img.shields.io/twitter/follow/Beardy_Weird?label=Follow%20%40Beardy_Weird&style=for-the-badge" alt="Kanav Arora" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/Beardy_Weird?style=social)](https://twitter.com/Beardy_Weird) 
+[![GitHub followers](https://img.shields.io/github/followers/Kanav-Arora?label=Follow&style=social)](https://github.com/Kanav-Arora) 
+[![Medium](https://github.com/kanavarora1515/kanavarora1515/blob/master/badges/medium.svg)](https://kanavarora1515.medium.com) 
+[![Website](https://img.shields.io/badge/Kanav-Arora--green?style=social&logo=google%20chrome)](Kanav-Arora.github.io) 
+[![Stackoverflow](https://github.com/Rishit-dagli/kanav-arora/blob/master/badges/stackoverflow.svg)](https://stackexchange.com/users/20655036/kanav-arora)
 
 
 <p align = "center"> <img  title="Kanav Arora" alt="Kanav Arora" width="400" src="./logos/animation.gif" /> </p>

@@ -6,7 +6,7 @@
 <a href = "https://kanavarora1515.medium.com" >
 <img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
-[![Website](https://img.shields.io/badge/Kanav-Arora--green?style=social&logo=google%20chrome)](kanav-arora.github.io)
+[![Website](https://img.shields.io/badge/Kanav-Arora--green?style=social&logo=google%20chrome)](https://kanav-arora.github.io)
 
 <p align = "center"> <img  title="Kanav Arora" alt="Kanav Arora" width="400" src="./logos/animation.gif" /> </p>
 

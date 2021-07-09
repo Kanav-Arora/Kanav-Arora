@@ -48,6 +48,11 @@ Tools I use: <br>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 ### Check my blogs:
 
 <br>

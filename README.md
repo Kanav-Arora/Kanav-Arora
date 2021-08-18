@@ -51,7 +51,7 @@ Tools I use: <br>
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-
+1. ❌ Closed PR [#51](https://github.com/Kanav-Arora/Financify/pull/51) in [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify)
 <!--END_SECTION:activity-->
 
 

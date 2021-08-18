@@ -49,8 +49,8 @@ Tools I use: <br>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
 
 **:zap: Recent Activity:**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:update-gh-activity-->
+<!--END_SECTION:update-gh-activity-->
 
 
 <!--START_SECTION:waka-->

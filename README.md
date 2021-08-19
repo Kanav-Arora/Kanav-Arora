@@ -55,7 +55,10 @@ Tools I use: <br>
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#51](https://github.com/Kanav-Arora/Financify/pull/51) in [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify)
 <!--END_SECTION:activity-->
+<br>
 
+**More on my coding habits:**
+<br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54614%20lines%20of%20code-blue)

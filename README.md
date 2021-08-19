@@ -13,7 +13,9 @@
 <br>
 
 <h3 align = "center">
-Connect with me: <br>
+<b>
+Connect with me: </b><br>
+<br>
 <a href="https://twitter.com/Beardy_Weird"><img align="center" title="Twitter - Kanav Arora" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
 <a href="www.linkedin.com/in/kanavarora1505"><img align="center" title="LinkedIn - Kanav Arora" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
 <a href="https://www.instagram.com/kanav_a/"><img align="center" title="Instagram - Kanav Arora" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
@@ -46,9 +48,9 @@ Tools I use: <br>
 
 <br>
 
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&theme=dark&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
 
-**:zap: Recent Activity:**
+**Recent Activity:**
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#51](https://github.com/Kanav-Arora/Financify/pull/51) in [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify)

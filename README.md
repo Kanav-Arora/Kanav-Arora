@@ -57,11 +57,16 @@ Tools I use: <br>
 <!--END_SECTION:activity-->
 <br>
 
+<br>
+
 **More on my coding habits:**
+
 <br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54614%20lines%20of%20code-blue)
+
+<br>
 
 **Call It A Night 🦉** 
 
@@ -91,10 +96,10 @@ Mac                      21 mins             ███████████�
 
 ```
 
-
  Last Updated on 20/08/2021
 <!--END_SECTION:waka-->
 
+<br>
 
 ### Check my blogs:
 

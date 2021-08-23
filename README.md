@@ -59,6 +59,16 @@ Tools I use: <br>
 
 <br>
 
+**My Magnum Opus:**
+
+<br>
+
+- [Financify](https://github.com/Kanav-Arora/Financify) - An Accounting software
+- [Book Worm](https://github.com/Kanav-Arora/Library-Management-System) - Library Management System
+
+<br>
+
+
 **More on my coding habits:**
 
 <br>

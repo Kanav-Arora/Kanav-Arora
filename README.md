@@ -113,6 +113,9 @@ Mac                      2 hrs 11 mins       ███████████�
  Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
+
+<!-- If you're using "main" as default branch -->
+
 <br>
 
 ### Check my blogs:

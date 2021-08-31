@@ -124,6 +124,7 @@ Mac                      2 hrs 13 mins       ███████████�
 
 
 <!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/Kanav-Arora/Kanav-Arora/blob/main/github-metrics.svg)
 
 <br>
 

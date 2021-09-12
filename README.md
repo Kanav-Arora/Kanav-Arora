@@ -76,13 +76,13 @@ Tools I use: <br>
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 518 Contributions in the Year 2021
+> 🏆 520 Contributions in the Year 2021
  > 
-> 📦 48.8 kB Used in Github's Storage 
+> 📦 49.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 

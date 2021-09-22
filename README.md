@@ -74,11 +74,11 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 576 Contributions in the Year 2021
  > 
-> 📦 53.9 kB Used in Github's Storage 
+> 📦 54.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 

@@ -78,7 +78,7 @@ Tools I use: <br>
 
 > 🏆 578 Contributions in the Year 2021
  > 
-> 📦 54.6 kB Used in GitHub's Storage 
+> 📦 54.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 

@@ -53,7 +53,7 @@ Tools I use: <br>
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#51](https://github.com/Kanav-Arora/Financify/pull/51) in [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify)
+1. 💪 Opened PR [#1](https://github.com/DSC-Bennett-University/DSC-Bennett-university.github.io/pull/1) in [DSC-Bennett-University/DSC-Bennett-university.github.io](https://github.com/DSC-Bennett-University/DSC-Bennett-university.github.io)
 <!--END_SECTION:activity-->
 <br>
 

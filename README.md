@@ -53,7 +53,7 @@ Tools I use: <br>
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/DSC-Bennett-University/DSC-Bennett-university.github.io/pull/1) in [DSC-Bennett-University/DSC-Bennett-university.github.io](https://github.com/DSC-Bennett-University/DSC-Bennett-university.github.io)
+1. 💪 Opened PR [#46](https://github.com/codeaholic-shub/ALGO-ADDICT/pull/46) in [codeaholic-shub/ALGO-ADDICT](https://github.com/codeaholic-shub/ALGO-ADDICT)
 <!--END_SECTION:activity-->
 <br>
 

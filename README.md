@@ -101,20 +101,18 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-C++                      38 mins             ████████████████████████░   95.7% 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DSA with C++             40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/11/2021
+ Last Updated on 07/11/2021
 <!--END_SECTION:waka-->
 
 

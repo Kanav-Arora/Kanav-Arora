@@ -53,7 +53,7 @@ Tools I use: <br>
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Kanav-Arora/Stock-Visualizer/pull/14) in [Kanav-Arora/Stock-Visualizer](https://github.com/Kanav-Arora/Stock-Visualizer)
+1. 🎉 Merged PR [#15](https://github.com/Kanav-Arora/Stock-Visualizer/pull/15) in [Kanav-Arora/Stock-Visualizer](https://github.com/Kanav-Arora/Stock-Visualizer)
 <!--END_SECTION:activity-->
 <br>
 

@@ -80,7 +80,7 @@ Tools I use: <br>
 
 > 🏆 729 Contributions in the Year 2021
  > 
-> 📦 49.9 kB Used in GitHub's Storage 
+> 📦 50.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -116,7 +116,7 @@ Mac                      2 hrs 56 mins       ███████████�
 ```
 
 
- Last Updated on 02/12/2021
+ Last Updated on 03/12/2021
 <!--END_SECTION:waka-->
 
 

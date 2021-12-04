@@ -74,13 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 729 Contributions in the Year 2021
  > 
-> 📦 50.6 kB Used in GitHub's Storage 
+> 📦 50.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

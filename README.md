@@ -53,7 +53,7 @@ Tools I use: <br>
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DSC-Bennett-University/DSC-Bennett-university.github.io/pull/1) in [DSC-Bennett-University/DSC-Bennett-university.github.io](https://github.com/DSC-Bennett-University/DSC-Bennett-university.github.io)
+1. 🎉 Merged PR [#11](https://github.com/DSC-Bennett-University/AI-ML-Starter/pull/11) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
 <!--END_SECTION:activity-->
 <br>
 

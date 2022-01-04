@@ -74,11 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2011%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 49.7 kB Used in GitHub's Storage 
+> 📦 49.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

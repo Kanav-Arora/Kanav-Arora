@@ -82,7 +82,7 @@ Tools I use: <br>
 
 > 🏆 41 Contributions in the Year 2022
  > 
-> 📦 56.0 kB Used in GitHub's Storage 
+> 📦 56.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

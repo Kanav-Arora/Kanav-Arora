@@ -53,7 +53,7 @@ Tools I use: <br>
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/DSC-Bennett-University/Code-Heist/pull/3) in [DSC-Bennett-University/Code-Heist](https://github.com/DSC-Bennett-University/Code-Heist)
+1. 🎉 Merged PR [#4](https://github.com/DSC-Bennett-University/Code-Heist/pull/4) in [DSC-Bennett-University/Code-Heist](https://github.com/DSC-Bennett-University/Code-Heist)
 <!--END_SECTION:activity-->
 <br>
 

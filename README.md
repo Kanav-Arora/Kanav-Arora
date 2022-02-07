@@ -74,15 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2025%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2022
+> 🏆 61 Contributions in the Year 2022
  > 
-> 📦 68.2 kB Used in GitHub's Storage 
+> 📦 68.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -93,10 +91,10 @@ Tools I use: <br>
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-🌆 Daytime    182 commits    ███████░░░░░░░░░░░░░░░░░░   29.69% 
-🌃 Evening    344 commits    ██████████████░░░░░░░░░░░   56.12% 
-🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+🌞 Morning    62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
+🌆 Daytime    182 commits    ███████░░░░░░░░░░░░░░░░░░   29.5% 
+🌃 Evening    348 commits    ██████████████░░░░░░░░░░░   56.4% 
+🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
 
 ```
 
@@ -120,7 +118,7 @@ Mac                      2 hrs 43 mins       ███████████�
 ```
 
 
- Last Updated on 06/02/2022 16:29:17 UTC
+ Last Updated on 07/02/2022 01:06:06 UTC
 <!--END_SECTION:waka-->
 
 

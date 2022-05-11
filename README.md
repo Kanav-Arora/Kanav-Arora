@@ -82,7 +82,7 @@ Tools I use: <br>
 
 > 🏆 84 Contributions in the Year 2022
  > 
-> 📦 90.7 kB Used in GitHub's Storage 
+> 📦 90.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,18 +105,18 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-C++                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DSA with C++             4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 10/05/2022 16:38:19 UTC
+ Last Updated on 11/05/2022 01:57:24 UTC
 <!--END_SECTION:waka-->
 
 

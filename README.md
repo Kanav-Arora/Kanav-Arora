@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Kanav Arora</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="5px">, I'm Kanav Arora</h1>
 <h3 align="center">B.Tech student at Bennett University</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Beardy_Weird?style=social)](https://twitter.com/Beardy_Weird)

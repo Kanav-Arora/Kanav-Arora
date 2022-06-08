@@ -74,7 +74,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-221%20Thousand%20lines%20of%20code-blue)
 
@@ -82,7 +82,7 @@ Tools I use: <br>
 
 > 🏆 96 Contributions in the Year 2022
  > 
-> 📦 90.2 kB Used in GitHub's Storage 
+> 📦 90.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -117,7 +117,7 @@ Mac                      2 hrs 32 mins       ███████████�
 ```
 
 
- Last Updated on 07/06/2022 16:32:51 UTC
+ Last Updated on 08/06/2022 01:47:08 UTC
 <!--END_SECTION:waka-->
 
 

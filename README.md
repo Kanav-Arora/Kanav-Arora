@@ -74,7 +74,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222%20Thousand%20lines%20of%20code-blue)
 
@@ -82,7 +82,7 @@ Tools I use: <br>
 
 > 🏆 155 Contributions in the Year 2022
  > 
-> 📦 87.4 kB Used in GitHub's Storage 
+> 📦 87.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,20 +105,20 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-C++                      5 hrs 12 mins       ████████████████████████░   99.33% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+C++                      4 hrs 23 mins       █████████████████████████   99.93% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🐱‍💻 Projects: 
-DSA with C++             4 hrs 45 mins       ██████████████████████░░░   90.79% 
-Leetcode                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.21%
+DSA with C++             3 hrs 54 mins       ██████████████████████░░░   89.02% 
+Leetcode                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
 
 💻 Operating System: 
-Mac                      5 hrs 14 mins       █████████████████████████   100.0%
+Mac                      4 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/06/2022 16:35:42 UTC
+ Last Updated on 25/06/2022 02:00:03 UTC
 <!--END_SECTION:waka-->
 
 

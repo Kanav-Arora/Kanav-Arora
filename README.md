@@ -74,7 +74,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
 
@@ -82,7 +82,7 @@ Tools I use: <br>
 
 > 🏆 199 Contributions in the Year 2022
  > 
-> 📦 87.6 kB Used in GitHub's Storage 
+> 📦 87.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,22 +105,22 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-C++                      8 hrs 54 mins       ████████████████████░░░░░   83.46% 
-Python                   1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+C++                      8 hrs 54 mins       ████████████████████░░░░░   80.69% 
+Python                   2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🐱‍💻 Projects: 
-DSA with C++             8 hrs 55 mins       █████████████████████░░░░   83.52% 
-Autism Spectrum Disorder 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48%
+DSA with C++             8 hrs 55 mins       ████████████████████░░░░░   80.74% 
+Autism Spectrum Disorder 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.26%
 
 💻 Operating System: 
-Mac                      10 hrs 40 mins      █████████████████████████   100.0%
+Mac                      11 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/07/2022 16:32:21 UTC
+ Last Updated on 11/07/2022 02:01:22 UTC
 <!--END_SECTION:waka-->
 
 

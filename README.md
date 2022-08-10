@@ -74,7 +74,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
 
@@ -117,7 +117,7 @@ Mac                      1 hr 12 mins        ███████████�
 ```
 
 
- Last Updated on 10/08/2022 08:28:36 UTC
+ Last Updated on 10/08/2022 16:36:51 UTC
 <!--END_SECTION:waka-->
 
 

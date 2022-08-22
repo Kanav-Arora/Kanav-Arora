@@ -74,7 +74,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
 
@@ -105,19 +105,19 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 58 mins        █████████████████████████   100.0%
+C++                      2 hrs 31 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DSA with C++             1 hr 21 mins        █████████████████░░░░░░░░   68.83% 
-Leetcode                 36 mins             ███████░░░░░░░░░░░░░░░░░░   31.17%
+DSA with C++             1 hr 55 mins        ███████████████████░░░░░░   75.77% 
+Leetcode                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23%
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        █████████████████████████   100.0%
+Mac                      2 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/08/2022 16:31:10 UTC
+ Last Updated on 22/08/2022 02:04:44 UTC
 <!--END_SECTION:waka-->
 
 

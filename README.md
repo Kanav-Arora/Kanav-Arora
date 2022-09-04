@@ -74,7 +74,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222%20Thousand%20lines%20of%20code-blue)
 
@@ -82,45 +82,16 @@ Tools I use: <br>
 
 > 🏆 281 Contributions in the Year 2022
  > 
-> 📦 86.4 kB Used in GitHub's Storage 
+> 📦 86.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-🌆 Daytime    182 commits    █████████░░░░░░░░░░░░░░░░   36.47% 
-🌃 Evening    271 commits    █████████████░░░░░░░░░░░░   54.31% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 22 mins       ████████████████████░░░░░   82.13% 
-C++                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
-
-🐱‍💻 Projects: 
-Lab                      2 hrs 22 mins       ████████████████████░░░░░   82.27% 
-DSA with C++             29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-Leetcode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
-
-💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 04/09/2022 02:15:50 UTC
+ Last Updated on 04/09/2022 08:26:59 UTC
 <!--END_SECTION:waka-->
 
 

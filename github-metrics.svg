@@ -215,7 +215,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 22:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -1838,7 +1838,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2022, 19:55:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Sept 2022, 22:06:29 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

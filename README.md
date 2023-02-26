@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 181.2 kB Used in GitHub's Storage 
+> 📦 181.3 kB Used in GitHub's Storage 
  > 
 > 🏆 79 Contributions in the Year 2023
  > 
@@ -104,20 +104,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 47 mins        ██████████████████████░░░   87.48 % 
-Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-expense_planner          1 hr 48 mins        ██████████████████████░░░   88.29 % 
-Autism Spectrum Disorder 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/02/2023 01:09:50 UTC
+ Last Updated on 26/02/2023 01:17:28 UTC
 <!--END_SECTION:waka-->
 
 

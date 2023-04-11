@@ -74,13 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-781.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 183.6 kB Used in GitHub's Storage 
+> 📦 183.7 kB Used in GitHub's Storage 
  > 
 > 🏆 113 Contributions in the Year 2023
  > 
@@ -104,17 +104,20 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Python                   28 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 1 min         █████████████████████████   99.73 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-Autism Spectrum Disorder 28 mins             █████████████████████████   100.00 % 
+SNA Project              1 hr 46 mins        ██████████████████████░░░   87.51 % 
+Autism Spectrum Disorder 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/04/2023 01:02:04 UTC
+ Last Updated on 11/04/2023 01:02:22 UTC
 <!--END_SECTION:waka-->
 
 

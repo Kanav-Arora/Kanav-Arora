@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 186.1 kB Used in GitHub's Storage 
+> 📦 186.7 kB Used in GitHub's Storage 
  > 
 > 🏆 139 Contributions in the Year 2023
  > 
@@ -104,17 +104,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Dart                     9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-accouting_software       9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/05/2023 01:07:45 UTC
+ Last Updated on 23/05/2023 01:04:03 UTC
 <!--END_SECTION:waka-->
 
 

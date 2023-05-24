@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 186.7 kB Used in GitHub's Storage 
+> 📦 187.2 kB Used in GitHub's Storage 
  > 
 > 🏆 139 Contributions in the Year 2023
  > 
@@ -104,17 +104,19 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 6 mins         ████████████████████████░   95.58 % 
+Groovy                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+accouting_software       1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2023 01:04:03 UTC
+ Last Updated on 24/05/2023 01:06:37 UTC
 <!--END_SECTION:waka-->
 
 

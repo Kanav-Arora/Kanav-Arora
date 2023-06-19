@@ -74,13 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-788.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 191.7 kB Used in GitHub's Storage 
+> 📦 192.2 kB Used in GitHub's Storage 
  > 
 > 🏆 139 Contributions in the Year 2023
  > 
@@ -104,19 +104,19 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Dart                     26 mins             ██████████████░░░░░░░░░░░   56.97 % 
-C++                      19 mins             ███████████░░░░░░░░░░░░░░   43.03 % 
+Dart                     2 hrs 11 mins       █████████████████████████   99.54 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-accouting_software       26 mins             ██████████████░░░░░░░░░░░   56.97 % 
-Competitive Programming  19 mins             ███████████░░░░░░░░░░░░░░   43.03 % 
+accouting_software       2 hrs 11 mins       █████████████████████████   99.54 % 
+Competitive Programming  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2023 01:20:14 UTC
+ Last Updated on 19/06/2023 01:11:19 UTC
 <!--END_SECTION:waka-->
 
 

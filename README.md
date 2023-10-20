@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kanav Arora</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kanav Arora</h1>
 <h3 align="center">B.Tech student at Bennett University</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Beardy_Weird?style=social)](https://twitter.com/Beardy_Weird)
@@ -10,149 +10,54 @@
 
 <p align = "center"> <img  title="Kanav Arora" alt="Kanav Arora" width="400" src="./logos/animation.gif" /> </p>
 
-<h3 align="center">Programming Languages & Tools</h3>
+<br>
 
-<div align="center" style="display:flex; gap:4px; flex-wrap: wrap; justify-content:center;">
+<h3 align = "center">
+<b>
+Connect with me: </b><br>
+<br>
+<a href="https://twitter.com/Beardy_Weird"><img align="center" title="Twitter - Kanav Arora" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
+<a href="www.linkedin.com/in/kanavarora1505"><img align="center" title="LinkedIn - Kanav Arora" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
+<a href="https://www.instagram.com/kanav_a/"><img align="center" title="Instagram - Kanav Arora" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
+<a href="https://meta.stackexchange.com/users/937580/kanav-arora"><img align="center" title="Stack Overflow - Kanav Arora" alt="Stack Overflow" width="22px" src="./logos/stackoverflow.svg" /></a>
+<a href="mailto:kanavarora1515@gmail.com"><img align="center" title="Mail - Kanav Arora" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
 
-  <!-- JavaScript -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">JavaScript</span>
-  </div>
+<br>
+<br>
+  
+Programming Languages I work with: <br>
 
-  <!-- HTML -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">HTML5</span>
-  </div>
+<img align="center" title="Python" alt="python" width="26px" src="./logos/python.svg" />
+<img align="center" title="Java" alt="Java" width="26px" src="./logos/java.svg" />
+<!-- <img align="left" title="Git" alt="Git" width="26px" src="./logos/git.svg" /> -->
+<img align="center" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
+<img align="center" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+  
+<br>
+<br>
 
-  <!-- CSS -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">CSS3</span>
-  </div>
+Tools I use: <br>
 
-  <!-- C++ -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">C++</span>
-  </div>
-
-  <!-- Java -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">Java</span>
-  </div>
-
-  <!-- Python -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">Python</span>
-  </div>
-
-  <!-- Dart -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">Dart</span>
-  </div>
-
-</div>
-
-<h3 align="center">Libraries</h3>
-
-<div align="center" style="display:flex; gap:4px; justify-content: center;">
-  <!-- Node.js -->
-<div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 6px; max-width: 80px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" style="margin-right: 6px;">
-  <span style="flex-grow: 1; font-size: 12px;">Node.js</span>
-</div>
-
-<!-- Express -->
-<div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 6px; max-width: 80px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="20" height="20" style="margin-right: 6px;">
-  <span style="flex-grow: 1; font-size: 12px;">Express</span>
-</div>
-
-<!-- React -->
-<div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 6px; max-width: 80px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" style="margin-right: 6px;">
-  <span style="flex-grow: 1; font-size: 12px;">React</span>
-</div>
-
-<!-- React-Router -->
-<div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 6px; max-width: 120px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React-Router" width="20" height="20" style="margin-right: 6px;">
-  <span style="flex-grow: 1; font-size: 12px;">React-Router</span>
-</div>
-</div>
-
-<div align="center" style="display:flex; gap:4px; justify-content: center;">
-<!-- Mongoose -->
-<div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 6px; max-width: 80px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongoose" width="20" height="20" style="margin-right: 6px;">
-  <span style="flex-grow: 1; font-size: 12px;">Mongoose</span>
-</div>
-
-<!-- Mocha -->
-<div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 6px; max-width: 80px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="20" height="20" style="margin-right: 6px;">
-  <span style="flex-grow: 1; font-size: 12px;">Mocha</span>
-</div>
-
-<!-- Flutter -->
-<div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 6px; max-width: 80px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20" style="margin-right: 6px;">
-  <span style="flex-grow: 1; font-size: 12px;">Flutter</span>
-</div>
-</div>
-
-<h3 align="center">Database</h3>
-
-<div align="center" style="display:flex; gap:4px; justify-content:center;">
-
-  <!-- SQL -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">SQL</span>
-  </div>
-
-  <!-- MongoDB -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">MongoDB</span>
-  </div>
-
-  <!-- Firebase -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">Firebase</span>
-  </div>
-
-</div>
-
-<h3 align="center">Tools</h3>
-
-<div align="center" style="display:flex; gap:4px; justify-content:center;">
-
-  <!-- VSCode -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">VSCode</span>
-  </div>
-
-  <!-- Figma -->
-  <div style="display: flex; align-items: center; padding: 6px; border: 1px solid #ccc; border-radius: 6px; max-width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="20" height="20" style="margin-right: 6px;">
-    <span style="flex-grow: 1; font-size: 12px;">Figma</span>
-  </div>
-
-</div>
-
-
+<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
+<img align="center" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
+<img align="center" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
+<img align="center" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
+<img align="center" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
+<img align="center" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
+</h3>
 
 <br>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanav-Arora&theme=dark&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
+
+**Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#51](https://github.com/Kanav-Arora/Financify/pull/51) in [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify)
+<!--END_SECTION:activity-->
+<br>
+
+<br>
 
 **My Magnum Opus:**
 
@@ -163,61 +68,67 @@
 
 <br>
 
+
+**More on my coding habits:**
+
+<br>
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2017%20mins-blue)
+**🐱 My Github Data** 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.5%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 203.6 kB Used in GitHub's Storage 
+> 🏆 507 Contributions in the Year 2021
  > 
-> 🏆 206 Contributions in the Year 2023
+> 📦 42.1 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-🌆 Daytime                497 commits         ██████████░░░░░░░░░░░░░░░   39.01 % 
-🌃 Evening                633 commits         ████████████░░░░░░░░░░░░░   49.69 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+🌆 Daytime    100 commits    ███████░░░░░░░░░░░░░░░░░░   28.99% 
+🌃 Evening    187 commits    █████████████░░░░░░░░░░░░   54.2% 
+🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
+
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 hrs 15 mins      ██████████████░░░░░░░░░░░   56.57 % 
-TypeScript               2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JSON                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+C                        1 hr 26 mins        ████████████████░░░░░░░░░   64.89% 
+Other                    36 mins             ██████░░░░░░░░░░░░░░░░░░░   27.42% 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🐱‍💻 Projects: 
-TravelBuddy              13 hrs 49 mins      ███████████████████░░░░░░   76.26 % 
-twenty                   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-novu                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+C-Touch                  1 hr 18 mins        ██████████████░░░░░░░░░░░   59.22% 
+AI                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
+JavaCSEProject           18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+C files                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
+mygit                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 💻 Operating System: 
-Mac                      18 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.0%
+
 ```
 
 
- Last Updated on 20/10/2023 01:01:05 UTC
+ Last Updated on 31/08/2021
 <!--END_SECTION:waka-->
+
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/Kanav-Arora/Kanav-Arora/blob/main/github-metrics.svg)
 
 <br>
 
-### Check my blogs
+### Check my blogs:
 
 <br>
 

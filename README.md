@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 226.7 kB Used in GitHub's Storage 
+> 📦 227.3 kB Used in GitHub's Storage 
  > 
 > 🏆 47 Contributions in the Year 2024
  > 
@@ -104,18 +104,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Bash                     3 mins              ████████████████░░░░░░░░░   63.14 % 
-JavaScript               2 mins              █████████░░░░░░░░░░░░░░░░   36.86 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TravelBuddy              6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/03/2024 01:02:11 UTC
+ Last Updated on 19/03/2024 01:01:03 UTC
 <!--END_SECTION:waka-->
 
 

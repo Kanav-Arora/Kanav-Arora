@@ -74,13 +74,15 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 226.6 kB Used in GitHub's Storage 
+> 📦 227.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 94 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,10 +93,10 @@ Tools I use: <br>
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-🌆 Daytime                956 commits         ████████░░░░░░░░░░░░░░░░░   32.37 % 
-🌃 Evening                1469 commits        ████████████░░░░░░░░░░░░░   49.75 % 
-🌙 Night                  421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+🌆 Daytime                935 commits         ████████░░░░░░░░░░░░░░░░░   32.21 % 
+🌃 Evening                1442 commits        ████████████░░░░░░░░░░░░░   49.67 % 
+🌙 Night                  420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 ```
 
 
@@ -102,17 +104,18 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               9 mins              █████████████████████████   98.40 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TravelBuddy              9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2024 01:06:59 UTC
+ Last Updated on 22/04/2024 01:04:31 UTC
 <!--END_SECTION:waka-->
 
 

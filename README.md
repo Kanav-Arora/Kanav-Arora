@@ -74,13 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2036%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 224.2 kB Used in GitHub's Storage 
+> 📦 224.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 145 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,10 +91,10 @@ Tools I use: <br>
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-🌆 Daytime                1269 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-🌃 Evening                2144 commits        █████████████░░░░░░░░░░░░   50.38 % 
-🌙 Night                  732 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+🌆 Daytime                1259 commits        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+🌃 Evening                2124 commits        █████████████░░░░░░░░░░░░   50.38 % 
+🌙 Night                  722 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 
 
@@ -112,7 +112,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/10/2024 01:16:27 UTC
+ Last Updated on 22/10/2024 01:15:36 UTC
 <!--END_SECTION:waka-->
 
 

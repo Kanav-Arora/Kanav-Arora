@@ -80,9 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 229.7 kB Used in GitHub's Storage 
- > 
-> 🏆 145 Contributions in the Year 2024
+> 📦 230.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -114,7 +112,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/11/2024 01:22:14 UTC
+ Last Updated on 18/11/2024 01:19:52 UTC
 <!--END_SECTION:waka-->
 
 

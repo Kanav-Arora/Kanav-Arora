@@ -80,7 +80,9 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 227.3 kB Used in GitHub's Storage 
+> 📦 227.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -118,7 +120,7 @@ Mac                      5 hrs 32 mins       ███████████�
 ```
 
 
- Last Updated on 04/01/2025 01:13:46 UTC
+ Last Updated on 05/01/2025 01:20:50 UTC
 <!--END_SECTION:waka-->
 
 

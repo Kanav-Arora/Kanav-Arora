@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 229.7 kB Used in GitHub's Storage 
+> 📦 230.2 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -104,17 +104,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-C++                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DSA with C++             13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/01/2025 01:09:26 UTC
+ Last Updated on 26/01/2025 01:15:00 UTC
 <!--END_SECTION:waka-->
 
 

@@ -80,7 +80,9 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 226.8 kB Used in GitHub's Storage 
+> 📦 227.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -102,19 +104,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Python                   39 mins             ██████████████████████░░░   87.13 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-high-frequency-trading-pl45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2025 01:22:56 UTC
+ Last Updated on 15/04/2025 01:22:09 UTC
 <!--END_SECTION:waka-->
 
 

@@ -74,13 +74,15 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 223.9 kB Used in GitHub's Storage 
+> 📦 224.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -102,19 +104,19 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 23 mins        █████████████░░░░░░░░░░░░   51.25 % 
-YAML                     1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   41.25 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+YAML                     54 mins             ███████████████░░░░░░░░░░   60.35 % 
+Python                   31 mins             █████████░░░░░░░░░░░░░░░░   34.73 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🐱‍💻 Projects: 
-high-frequency-trading-pl2 hrs 42 mins       █████████████████████████   100.00 % 
+high-frequency-trading-pl1 hr 29 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2025 01:24:57 UTC
+ Last Updated on 14/05/2025 01:23:42 UTC
 <!--END_SECTION:waka-->
 
 

@@ -74,13 +74,11 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2030%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 229.3 kB Used in GitHub's Storage 
+> 📦 229.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -114,7 +112,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2025 01:44:12 UTC
+ Last Updated on 31/07/2025 01:43:19 UTC
 <!--END_SECTION:waka-->
 
 

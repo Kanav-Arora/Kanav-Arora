@@ -80,7 +80,9 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 228.1 kB Used in GitHub's Storage 
+> 📦 228.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -102,17 +104,19 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     49 mins             █████████████████████░░░░   83.34 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hadoop_explore           59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/08/2025 01:28:05 UTC
+ Last Updated on 14/08/2025 01:28:20 UTC
 <!--END_SECTION:waka-->
 
 

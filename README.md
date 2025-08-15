@@ -74,13 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-910%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 228.6 kB Used in GitHub's Storage 
+> 📦 229.1 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -104,19 +104,19 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-YAML                     49 mins             █████████████████████░░░░   83.34 % 
-JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+YAML                     1 hr 9 mins         ██████████████████████░░░   87.55 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🐱‍💻 Projects: 
-hadoop_explore           59 mins             █████████████████████████   100.00 % 
+hadoop_explore           1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/08/2025 01:28:20 UTC
+ Last Updated on 15/08/2025 01:28:55 UTC
 <!--END_SECTION:waka-->
 
 

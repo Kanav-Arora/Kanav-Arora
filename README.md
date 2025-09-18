@@ -74,11 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 229.0 kB Used in GitHub's Storage 
+> 📦 229.5 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2025
  > 
@@ -88,8 +90,31 @@ Tools I use: <br>
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 17/09/2025 01:17:10 UTC
+```text
+🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+🌆 Daytime                609 commits         ██████████░░░░░░░░░░░░░░░   38.62 % 
+🌃 Evening                815 commits         █████████████░░░░░░░░░░░░   51.68 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 18/09/2025 01:17:19 UTC
 <!--END_SECTION:waka-->
 
 

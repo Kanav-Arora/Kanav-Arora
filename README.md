@@ -80,22 +80,22 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 229.9 kB Used in GitHub's Storage 
+> 📦 230.4 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
+> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-🌆 Daytime                609 commits         ██████████░░░░░░░░░░░░░░░   38.62 % 
-🌃 Evening                815 commits         █████████████░░░░░░░░░░░░   51.68 % 
+🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+🌆 Daytime                611 commits         ██████████░░░░░░░░░░░░░░░   38.70 % 
+🌃 Evening                815 commits         █████████████░░░░░░░░░░░░   51.61 % 
 🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 
@@ -104,17 +104,18 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              ██████████████░░░░░░░░░░░   56.97 % 
+Markdown                 2 mins              ███████████░░░░░░░░░░░░░░   43.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+event-driven-data-platfor5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/10/2025 01:21:49 UTC
+ Last Updated on 24/10/2025 01:18:04 UTC
 <!--END_SECTION:waka-->
 
 

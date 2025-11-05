@@ -74,11 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2032%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 227.6 kB Used in GitHub's Storage 
+> 📦 228.1 kB Used in GitHub's Storage 
  > 
 > 🏆 12 Contributions in the Year 2025
  > 
@@ -88,8 +90,34 @@ Tools I use: <br>
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 04/11/2025 01:23:34 UTC
+```text
+🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+🌆 Daytime                611 commits         ██████████░░░░░░░░░░░░░░░   38.60 % 
+🌃 Evening                819 commits         █████████████░░░░░░░░░░░░   51.74 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     56 mins             ████████████████████░░░░░   79.25 % 
+Bash                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+
+🐱‍💻 Projects: 
+event-driven-data-platfor1 hr 10 mins        ████████████████████████░   97.87 % 
+high-frequency-trading-pl1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
+💻 Operating System: 
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/11/2025 01:24:48 UTC
 <!--END_SECTION:waka-->
 
 

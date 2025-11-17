@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 230.2 kB Used in GitHub's Storage 
+> 📦 230.7 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2025
  > 
@@ -104,17 +104,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-SQL                      28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-event-driven-data-platfor28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/11/2025 01:37:18 UTC
+ Last Updated on 17/11/2025 01:25:41 UTC
 <!--END_SECTION:waka-->
 
 

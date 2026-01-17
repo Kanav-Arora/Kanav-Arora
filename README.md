@@ -74,13 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-941%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 235.4 kB Used in GitHub's Storage 
+> 📦 235.9 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -104,17 +104,20 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     33 mins             ███████████░░░░░░░░░░░░░░   44.08 % 
+Docker                   25 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
+Python                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+event-driven-data-platfor1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/01/2026 01:42:30 UTC
+ Last Updated on 17/01/2026 01:28:40 UTC
 <!--END_SECTION:waka-->
 
 

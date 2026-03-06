@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 233.2 kB Used in GitHub's Storage 
+> 📦 233.7 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -104,21 +104,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Python                   43 mins             ██████████████████████░░░   86.17 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Java                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-event-driven-data-platfor50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/03/2026 02:00:28 UTC
+ Last Updated on 06/03/2026 02:00:43 UTC
 <!--END_SECTION:waka-->
 
 

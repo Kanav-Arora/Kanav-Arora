@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 229.4 kB Used in GitHub's Storage 
+> 📦 230.0 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2026
  > 
@@ -104,21 +104,21 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 24 mins        █████████████░░░░░░░░░░░░   52.53 % 
-Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Java                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Docker                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Python                   1 hr                ███████████░░░░░░░░░░░░░░   45.13 % 
+Other                    33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Java                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Docker                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🐱‍💻 Projects: 
-event-driven-data-platfor2 hrs 41 mins       █████████████████████████   100.00 % 
+event-driven-data-platfor2 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/03/2026 01:57:10 UTC
+ Last Updated on 15/03/2026 02:13:52 UTC
 <!--END_SECTION:waka-->
 
 

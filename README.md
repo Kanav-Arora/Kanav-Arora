@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 233.5 kB Used in GitHub's Storage 
+> 📦 234.0 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2026
  > 
@@ -104,20 +104,23 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-C++                      34 mins             ██████████████████████░░░   88.92 % 
-YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+C++                      34 mins             ██████████████░░░░░░░░░░░   54.89 % 
+YAML                     16 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-Cpp-Touch                23 mins             ███████████████░░░░░░░░░░   60.42 % 
-DSA with C++             11 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-event-driven-data-platfor4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+event-driven-data-platfor28 mins             ███████████░░░░░░░░░░░░░░   45.11 % 
+Cpp-Touch                23 mins             █████████░░░░░░░░░░░░░░░░   37.29 % 
+DSA with C++             11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/03/2026 02:07:43 UTC
+ Last Updated on 23/03/2026 02:08:40 UTC
 <!--END_SECTION:waka-->
 
 

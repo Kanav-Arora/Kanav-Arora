@@ -74,13 +74,11 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2033%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 255.7 kB Used in GitHub's Storage 
+> 📦 248.2 kB Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -90,34 +88,8 @@ Tools I use: <br>
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-🌆 Daytime                622 commits         █████████░░░░░░░░░░░░░░░░   37.90 % 
-🌃 Evening                866 commits         █████████████░░░░░░░░░░░░   52.77 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     37 mins             ███████████████░░░░░░░░░░   58.13 % 
-YAML                     25 mins             ██████████░░░░░░░░░░░░░░░   39.04 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🐱‍💻 Projects: 
-event-driven-data-platfor1 hr 4 mins         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/05/2026 02:56:49 UTC
+ Last Updated on 18/05/2026 03:34:36 UTC
 <!--END_SECTION:waka-->
 
 

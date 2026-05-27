@@ -80,9 +80,9 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 252.2 kB Used in GitHub's Storage 
+> 📦 252.7 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -94,8 +94,8 @@ Tools I use: <br>
 
 ```text
 🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-🌆 Daytime                622 commits         █████████░░░░░░░░░░░░░░░░   37.90 % 
-🌃 Evening                866 commits         █████████████░░░░░░░░░░░░   52.77 % 
+🌆 Daytime                623 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌃 Evening                867 commits         █████████████░░░░░░░░░░░░   52.77 % 
 🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
@@ -104,17 +104,21 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     49 mins             █████████░░░░░░░░░░░░░░░░   37.34 % 
+Java                     35 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Makefile                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+event-driven-data-platfor2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 03:26:17 UTC
+ Last Updated on 27/05/2026 03:40:19 UTC
 <!--END_SECTION:waka-->
 
 

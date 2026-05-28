@@ -74,15 +74,15 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 252.7 kB Used in GitHub's Storage 
+> 📦 253.2 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 45 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,10 +93,10 @@ Tools I use: <br>
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-🌆 Daytime                623 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌃 Evening                867 commits         █████████████░░░░░░░░░░░░   52.77 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+🌆 Daytime                623 commits         █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌃 Evening                871 commits         █████████████░░░░░░░░░░░░   52.88 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 
@@ -104,21 +104,21 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-YAML                     49 mins             █████████░░░░░░░░░░░░░░░░   37.34 % 
-Java                     35 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-Makefile                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Java                     1 hr 54 mins        ████████████░░░░░░░░░░░░░   48.55 % 
+YAML                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Makefile                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-event-driven-data-platfor2 hrs 12 mins       █████████████████████████   100.00 % 
+event-driven-data-platfor3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/05/2026 03:40:19 UTC
+ Last Updated on 28/05/2026 03:29:09 UTC
 <!--END_SECTION:waka-->
 
 

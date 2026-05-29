@@ -74,13 +74,11 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2021%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 253.2 kB Used in GitHub's Storage 
+> 📦 253.7 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -90,35 +88,8 @@ Tools I use: <br>
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-🌆 Daytime                623 commits         █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌃 Evening                871 commits         █████████████░░░░░░░░░░░░   52.88 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     1 hr 54 mins        ████████████░░░░░░░░░░░░░   48.55 % 
-YAML                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Makefile                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-
-🐱‍💻 Projects: 
-event-driven-data-platfor3 hrs 56 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 03:29:09 UTC
+ Last Updated on 29/05/2026 03:29:33 UTC
 <!--END_SECTION:waka-->
 
 

@@ -80,7 +80,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 254.7 kB Used in GitHub's Storage 
+> 📦 255.2 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -90,8 +90,35 @@ Tools I use: <br>
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 31/05/2026 03:41:36 UTC
+```text
+🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+🌆 Daytime                623 commits         █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌃 Evening                871 commits         █████████████░░░░░░░░░░░░   52.88 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     3 hrs 18 mins       █████████████░░░░░░░░░░░░   52.57 % 
+YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Makefile                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+
+🐱‍💻 Projects: 
+event-driven-data-platfor6 hrs 16 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 01/06/2026 03:56:44 UTC
 <!--END_SECTION:waka-->
 
 

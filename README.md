@@ -74,11 +74,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%205%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 248.3 kB Used in GitHub's Storage 
+> 📦 248.8 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2026
  > 
@@ -88,8 +90,33 @@ Tools I use: <br>
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 25/07/2026 02:31:23 UTC
+```text
+🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+🌆 Daytime                617 commits         ██████████░░░░░░░░░░░░░░░   38.11 % 
+🌃 Evening                849 commits         █████████████░░░░░░░░░░░░   52.44 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   9 mins              ██████████████████░░░░░░░   71.96 % 
+Text                     3 mins              ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+🐱‍💻 Projects: 
+f1-telemetry             13 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      13 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 26/07/2026 02:38:16 UTC
 <!--END_SECTION:waka-->
 
 

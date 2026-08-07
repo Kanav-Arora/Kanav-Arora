@@ -74,7 +74,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2049%20mins-blue?style=flat)
 
@@ -82,7 +82,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 254.4 kB Used in GitHub's Storage 
+> 📦 254.6 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2026
  > 
@@ -92,41 +92,8 @@ Tools I use: <br>
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-🌆 Daytime                617 commits         ██████████░░░░░░░░░░░░░░░   38.11 % 
-🌃 Evening                849 commits         █████████████░░░░░░░░░░░░   52.44 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 51 mins        ██████████████░░░░░░░░░░░   54.03 % 
-YAML                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-SQL                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-
-🐱‍💻 Projects: 
-event-driven-data-platfor3 hrs 26 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 06/08/2026 02:26:02 UTC
+ Last Updated on 07/08/2026 02:35:06 UTC
 <!--END_SECTION:waka-->
 
 

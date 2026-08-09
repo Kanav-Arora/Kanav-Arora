@@ -82,7 +82,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 255.1 kB Used in GitHub's Storage 
+> 📦 255.6 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2026
  > 
@@ -106,17 +106,17 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 51 mins        ██████████████░░░░░░░░░░░   54.03 % 
-YAML                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-SQL                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Python                   1 hr 5 mins         ██████████████░░░░░░░░░░░   56.72 % 
+YAML                     43 mins             █████████░░░░░░░░░░░░░░░░   37.69 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-event-driven-data-platfor3 hrs 26 mins       █████████████████████████   100.00 % 
+event-driven-data-platfor1 hr 54 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,7 +126,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2026 01:24:36 UTC
+ Last Updated on 09/08/2026 01:37:14 UTC
 <!--END_SECTION:waka-->
 
 

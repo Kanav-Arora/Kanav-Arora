@@ -82,7 +82,7 @@ Tools I use: <br>
 
 **🐱 My GitHub Data** 
 
-> 📦 248.4 kB Used in GitHub's Storage 
+> 📦 248.9 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2026
  > 
@@ -106,17 +106,14 @@ Tools I use: <br>
 
 ```text
 💬 Programming Languages: 
-Python                   56 mins             █████████████░░░░░░░░░░░░   53.42 % 
-YAML                     33 mins             ████████░░░░░░░░░░░░░░░░░   31.54 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+YAML                     25 mins             █████████████░░░░░░░░░░░░   51.17 % 
+Python                   24 mins             ████████████░░░░░░░░░░░░░   48.83 % 
 
 🐱‍💻 Projects: 
-event-driven-data-platfor1 hr 45 mins        █████████████████████████   100.00 % 
+event-driven-data-platfor49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,7 +123,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 12/08/2026 01:47:50 UTC
+ Last Updated on 13/08/2026 01:49:55 UTC
 <!--END_SECTION:waka-->
 
 
